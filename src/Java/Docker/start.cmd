@@ -1,0 +1,1 @@
+docker-compose -p proba6-java up -d

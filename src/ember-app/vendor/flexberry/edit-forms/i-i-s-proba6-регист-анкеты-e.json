@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Организация",
+      "projection": "ОрганизацияL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Регист анкеты",
+  "name": "IISProba6РегистАнкетыE",
+  "className": "РегистАнкетыE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-proba6-регист-анкеты",
+      "modelProjection": "РегистАнкетыE"
+    }
+  ]
+}
